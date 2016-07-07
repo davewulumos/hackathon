@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/3d propulsion/Endless Runner.unity
+  isLoaded: 1
+  isActive: 1
