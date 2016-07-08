@@ -1,0 +1,17 @@
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/obj/Debug/Assembly-CSharp.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/UnityEngine.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/UnityEditor.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Mono.Cecil.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Unity.DataContract.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/dwu/git_repo/hackathon/3d propulsion/Temp/bin/Debug/Mono.Cecil.Mdb.dll
