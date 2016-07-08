@@ -45,12 +45,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\3d propulsion\RoadGameController.cs" />
      <Compile Include="Assets\3d propulsion\Scripts\HazardCollider.cs" />
      <Compile Include="Assets\3d propulsion\Scripts\HudViewController.cs" />
      <Compile Include="Assets\3d propulsion\Scripts\Move.cs" />
      <Compile Include="Assets\3d propulsion\Scripts\Mover.cs" />
      <Compile Include="Assets\3d propulsion\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\3d propulsion\Scripts\RoadGameController.cs" />
      <Compile Include="Assets\3d propulsion\Scripts\RoadGamePlayerController.cs" />
      <Compile Include="Assets\CarController.cs" />
      <Compile Include="Assets\Cardboard\Scripts\Audio\CardboardAudio.cs" />
@@ -75,6 +75,7 @@
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardAndroidDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardiOSDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\UnityEditorDevice.cs" />
+     <Compile Include="Assets\PlayerCollider.cs" />
      <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
      <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
      <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
