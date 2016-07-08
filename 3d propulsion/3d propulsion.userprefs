@@ -1,17 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RoadGamePlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/3d propulsion/Scripts/RoadGamePlayerController.cs">
     <Files>
-      <File FileName="../../Downloads/Unity/FinalNinja/Assets/Scripts/NinjaStarController.cs" Line="10" Column="75" />
       <File FileName="Assets/3d propulsion/Scripts/Move.cs" Line="7" Column="25" />
-      <File FileName="Assets/3d propulsion/Scripts/GameController.cs" Line="20" Column="71" />
       <File FileName="Assets/3d propulsion/Scripts/PlayerController.cs" Line="13" Column="1" />
-      <File FileName="Assets/RoadGameController.cs" Line="32" Column="6" />
-      <File FileName="../shooter 3d/Assets/3dShooter/Scripts/GameController.cs" Line="7" Column="1" />
-      <File FileName="../shooter 3d/Assets/3dShooter/Scripts/Mover.cs" Line="1" Column="1" />
-      <File FileName="Assets/Mover.cs" Line="12" Column="2" />
-      <File FileName="Assets/RoadGamePlayerController.cs" Line="27" Column="23" />
-      <File FileName="../shooter 3d/Assets/3dShooter/Scripts/PlayerController.cs" Line="49" Column="3" />
+      <File FileName="Assets/3d propulsion/Scripts/RoadGamePlayerController.cs" Line="69" Column="117" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
